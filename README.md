@@ -10,10 +10,6 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
 
-Developed by : **Prabhakaran P**
-
-Reg no : **212224040236**
-
 ### CLIENT
 ```python
 import socket
